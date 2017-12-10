@@ -1,0 +1,23 @@
+{
+  "name": "artemis",
+  "version": "1.0.0",
+  "description": "artemis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genie-Youn/artemis.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Genie-Youn/artemis/issues"
+  },
+  "homepage": "https://github.com/Genie-Youn/artemis#readme",
+  "devDependencies": {
+    "webpac": "^1.0.1"
+  },
+  "dependencies": {}
+}
