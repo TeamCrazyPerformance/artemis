@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Genie-Youn/artemis.git"
+    "url": "git+https://github.com/TeamCrazyPerformance/artemis.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Genie-Youn/artemis/issues"
   },
-  "homepage": "https://github.com/Genie-Youn/artemis#readme",
+  "homepage": "https://github.com/TeamCrazyPerformance/artemis.git#readme",
   "devDependencies": {
     "webpac": "^1.0.1"
   },
