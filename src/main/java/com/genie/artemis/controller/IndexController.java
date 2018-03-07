@@ -14,5 +14,6 @@ public class IndexController {
   @GetMapping(value = "/index", produces = "text/html")
   public String index() {
     return "index";
+
   }
 }
