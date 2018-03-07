@@ -11,5 +11,6 @@ public class LoginController {
 
     UserDao dao = new UserDao();
     dao.loginCheck("a@a.com", "11");
+
   }
 }
